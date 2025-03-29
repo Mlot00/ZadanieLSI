@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.ExportsController.GetExports(WebAPI.Models.DTO.ExportFilterRequestDto)">
+            <summary>
+            Pobiera listę eksportów z możliwością filtrowania i paginacji.
+            </summary>
+            <param name="filter">Parametry filtrów i paginacji.</param>
+            <returns>Strona wyników z eksportami.</returns>
+        </member>
+        <member name="M:WebAPI.Controllers.ExportsController.CreateExport(WebAPI.Models.DTO.ExportRequestDto)">
+            <summary>
+            Tworzy nowy obiekt export.
+            </summary>
+            <param name="exportRequest">Nowy obiekt Export.</param>
+            <returns>Zwraca nowy obiekt export.</returns>
+        </member>
+        <member name="T:WebAPI.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:WebAPI.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

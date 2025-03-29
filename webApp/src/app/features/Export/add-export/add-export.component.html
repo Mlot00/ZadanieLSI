@@ -1,0 +1,44 @@
+<mat-card>
+    <mat-card-title>Dodaj nowy Export</mat-card-title>
+    <mat-card-content>
+      <form #exportForm="ngForm" (ngSubmit)="onSubmit()">
+        <mat-form-field appearance="outline" class="full-width">
+          <mat-label>Nazwa eksportu</mat-label>
+          <input matInput placeholder="Wprowadź nazwę eksportu" name="exportName" [(ngModel)]="export.exportName" required>
+        </mat-form-field>
+  
+        <mat-form-field appearance="outline" class="full-width">
+          <mat-label>Data eksportu</mat-label>
+          <input matInput [matDatepicker]="picker" placeholder="Wybierz datę" name="exportDate" [(ngModel)]="exportDate" required>
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+  
+        <mat-form-field appearance="outline" class="full-width">
+            <mat-label>Godzina eksportu</mat-label>
+            <input matInput type="time" name="exportTime" [(ngModel)]="exportTime" placeholder="Wprowadź godzinę" required>
+          </mat-form-field>
+  
+        <mat-form-field appearance="outline" class="full-width">
+          <mat-label>Użytkownik</mat-label>
+          <input matInput placeholder="Wprowadź nazwę użytkownika" name="username" [(ngModel)]="export.username" required>
+        </mat-form-field>
+  
+        <mat-form-field appearance="outline" class="full-width">
+          <mat-label>Lokalizacja</mat-label>
+          <mat-select [(ngModel)]="export.location" name="location" required>
+            <mat-option *ngFor="let option of locationOptions" [value]="option.value">
+              {{ option.label }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+  
+        <div class="button-group">
+          <button mat-raised-button color="primary" type="submit" [disabled]="!exportForm.valid">
+            Dodaj Export
+          </button>
+        </div>
+      </form>
+    </mat-card-content>
+  </mat-card>
+  

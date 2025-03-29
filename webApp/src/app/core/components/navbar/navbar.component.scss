@@ -1,0 +1,16 @@
+.toolbar {
+    background-color: #004d99;
+    color: white;
+    gap: 2rem;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+    color: #ff9100;
+}
+
+.toolbar mat-icon {
+    height: 50px;
+    width: 30px;
+    font-size: 28px;
+}

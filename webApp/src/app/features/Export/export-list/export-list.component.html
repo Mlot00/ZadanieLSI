@@ -1,0 +1,70 @@
+<div class="export-list-container mat-elevation-z4">
+  <h2>Raporty eksportów</h2>
+  <form class="filter-form" (ngSubmit)="searchExports()">
+    <div class="header-fields">
+      <div class="filter-fields">
+        <mat-form-field appearance="outline">
+          <mat-label>Data od</mat-label>
+          <input matInput [matDatepicker]="pickerFrom" [(ngModel)]="filter.fromDate" name="fromDate"
+            placeholder="Wybierz datę">
+          <mat-datepicker-toggle matSuffix [for]="pickerFrom"></mat-datepicker-toggle>
+          <mat-datepicker #pickerFrom></mat-datepicker>
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+          <mat-label>Data do</mat-label>
+          <input matInput [matDatepicker]="pickerTo" [(ngModel)]="filter.toDate" name="toDate"
+            placeholder="Wybierz datę">
+          <mat-datepicker-toggle matSuffix [for]="pickerTo"></mat-datepicker-toggle>
+          <mat-datepicker #pickerTo></mat-datepicker>
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+          <mat-label>Lokalizacja</mat-label>
+          <mat-select [(ngModel)]="filter.location" name="location">
+            <mat-option *ngFor="let option of locationOptions" [value]="option.value">
+              {{ option.label }}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+      </div>
+      <div class="button-class">
+        <button mat-raised-button color="primary" type="button" (click)="searchExports()">Szukaj</button>
+      </div>
+    </div>
+  </form>
+
+  <div class="table-container">
+    <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z2">
+      <ng-container matColumnDef="exportName">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Nazwa eksportu </th>
+        <td mat-cell *matCellDef="let element"> {{ element.exportName }} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="exportDate">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Data </th>
+        <td mat-cell *matCellDef="let element"> {{ element.exportDateTime | date:'shortDate' }} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="exportTime">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Godzina </th>
+        <td mat-cell *matCellDef="let element"> {{ element.exportDateTime | date:'shortTime' }} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="username">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Użytkownik </th>
+        <td mat-cell *matCellDef="let element"> {{ element.username }} </td>
+      </ng-container>
+
+      <ng-container matColumnDef="location">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Lokalizacja </th>
+        <td mat-cell *matCellDef="let element"> {{ element.location }} </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+
+    <mat-paginator [length]="totalCount" [pageSize]="5" [pageSizeOptions]="[2, 5, 10, 20]"
+      (page)="onPageChange($event)">
+    </mat-paginator>
+  </div>
+</div>

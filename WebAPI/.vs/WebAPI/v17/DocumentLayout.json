@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\repositories\\implementation\\exportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\repositories\\implementation\\exportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\models\\dto\\exportfilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\dto\\exportfilterrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\controllers\\exportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\exportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\models\\domain\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\domain\\export.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4399849C-6F71-4C62-B7A1-8D165F6BD6DD}|TestProject\\TestProject.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4399849C-6F71-4C62-B7A1-8D165F6BD6DD}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\models\\helper\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\helper\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|c:\\users\\kryst\\desktop\\zadanielsi\\zadanielsi\\webapi\\webapi\\migrations\\20250328133805_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BFDE01E-70E1-4D83-A488-5B89851EBA6F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20250328133805_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 315,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Export.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\Domain\\Export.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Domain\\Export.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\Domain\\Export.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Domain\\Export.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:03:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Repositories\\Implementation\\ExportRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Repositories\\Implementation\\ExportRepository.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Repositories\\Implementation\\ExportRepository.cs",
+              "RelativeToolTip": "WebAPI\\Repositories\\Implementation\\ExportRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:52:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T16:50:13.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:29:37.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportsController.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Controllers\\ExportsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ExportsController.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Controllers\\ExportsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ExportsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T14:13:10.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportFilterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\DTO\\ExportFilterRequestDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\DTO\\ExportFilterRequestDto.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\DTO\\ExportFilterRequestDto.cs",
+              "RelativeToolTip": "WebAPI\\Models\\DTO\\ExportFilterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:43:24.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "WebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T21:15:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T13:20:35.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:12:18.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:18:26.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\Helper\\PagedResult.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Helper\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Models\\Helper\\PagedResult.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Helper\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:47:38.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-28T14:06:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T14:57:12.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250328133805_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Migrations\\20250328133805_InitialMigration.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20250328133805_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\kryst\\Desktop\\zadanieLSi\\ZadanieLSI\\WebAPI\\WebAPI\\Migrations\\20250328133805_InitialMigration.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20250328133805_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:38:05.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
